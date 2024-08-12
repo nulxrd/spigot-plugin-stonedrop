@@ -1,0 +1,5 @@
+name: stonedrop
+version: '1.0'
+main: pl.sxbrsky.stonedrop.StoneDrop
+api-version: '1.21'
+authors: [ Dominik Szamburski ]
